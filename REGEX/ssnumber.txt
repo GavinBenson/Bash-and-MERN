@@ -1,0 +1,18 @@
+valid:
+123-45-6789
+312-23-3875
+837-21-8099
+
+Invalid:
+123-456-789
+12-21-1234
+
+Prohibited:
+
+
+Valid Email:
+fname@gmail.com
+
+Invalid Email:
+name@gmail
+

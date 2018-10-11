@@ -1,0 +1,4 @@
+var sql = "CREATE TABLE customers (ID int NOT NULL AUTO_INCREMENT PRIMARY KEY, fname varchar(50) NOT NULL, lname varchar(50) NOT NULL, address varchar(255))";
+con.query(sql, function (err, result) {
+if (err) throw err;
+console.log("Table created");
