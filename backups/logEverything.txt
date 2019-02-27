@@ -1,7 +1,0 @@
-total 20K
-drwxrwxrwx  5 compsci root    4.0K Sep 19 08:53 .
-drwxr-xr-x 27 compsci compsci 4.0K Sep 19 08:00 ..
-drwxr-xr-x  2 compsci compsci 4.0K Sep 17 08:07  17 September 2018
--rw-r--r--  1 compsci compsci    0 Sep 19 09:02 logEverything.txt
-drwxr-xr-x  3 compsci compsci 4.0K Sep 19 08:18 Monday 17 September 2018
-drwxr-xr-x  2 compsci compsci 4.0K Sep 19 08:20 Wednesday 19 September 2018
